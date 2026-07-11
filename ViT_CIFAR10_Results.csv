@@ -1,0 +1,6 @@
+Metric,Value
+Test Accuracy,98.49%
+Training Time (minutes),109.44
+Model Size (MB),327.38
+Total Parameters,"85,806,346"
+Trainable Parameters,"7,690"
